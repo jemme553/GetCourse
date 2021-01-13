@@ -1,1 +1,1 @@
-# GetCourse
+# GitCourse
